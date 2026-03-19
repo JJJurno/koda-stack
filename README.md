@@ -5,7 +5,7 @@
 One line. Full creative team. Zero overhead.
 
 ```bash
-git clone https://github.com/timkoda/cstack.git ~/.claude/skills/cstack
+git clone https://github.com/timkoda/koda-stack.git ~/.claude/skills/koda-stack
 ```
 
 ## What is the Koda Creative Stack?
@@ -34,7 +34,7 @@ You brief once. They handle everything.
 ### 1. Install
 
 ```bash
-git clone https://github.com/timkoda/cstack.git ~/.claude/skills/cstack
+git clone https://github.com/timkoda/koda-stack.git ~/.claude/skills/koda-stack
 ```
 
 ### 2. Set Up Your DNA
