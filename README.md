@@ -1,4 +1,4 @@
-# CSTACK — The Koda Creative Stack
+# The Koda Creative Stack
 
 **10 creative agents for Claude Code that automate your full content pipeline — from script to published reel.**
 
@@ -8,9 +8,9 @@ One line. Full creative team. Zero overhead.
 git clone https://github.com/timkoda/cstack.git ~/.claude/skills/cstack
 ```
 
-## What is CSTACK?
+## What is the Koda Creative Stack?
 
-CSTACK turns Claude Code into a full creative studio. Each skill is a specialized agent that handles one step of your content pipeline — scriptwriting, art direction, storyboarding, editing, publishing, and more.
+The Koda Creative Stack turns Claude Code into a full creative studio. Each skill is a specialized agent that handles one step of your content pipeline — scriptwriting, art direction, storyboarding, editing, publishing, and more.
 
 You brief once. They handle everything.
 
